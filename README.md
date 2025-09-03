@@ -1,6 +1,6 @@
 ## 🧑🏼‍💻 Jonatas Marques
 
-**`Desvolvedor Back-End Junior`**
+**`Desenvolvedor Back-End Junior`**
 
 Me chamo Jonatas Marques Sousa tenho 16 anos e atualmente estou no segundo ano do ensino médio. Estou estudando programação Back-end há quase um ano. Sou um entusiasta de tecnologia, apaixonado por desenvolvimento de software e aprendizado contínuo.
 
