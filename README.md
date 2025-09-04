@@ -98,7 +98,7 @@ Aqui no GitHub, você vai encontrar projetos, experimentos e estudos que reflete
 <img 
     align="left"
     alt="Github stats"
-    heigth="200"
+    height="200"
     style="padding-right: 10px"
     src="https://github-readme-stats.vercel.app/api?username=JonatasMarquesS09&show_icons=true&theme=tokyonight&include_all_commits=true" 
 />
