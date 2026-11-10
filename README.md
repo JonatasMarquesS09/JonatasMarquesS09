@@ -1,122 +1,53 @@
-## 🧑🏼‍💻 Jonatas Marques
+## 🧑🏻‍💻 Jonatas Marques
 
-**`Desenvolvedor Back-End Junior`**
+**`Desenvolvedor Full Stack`**
 
-Me chamo Jonatas Marques Sousa tenho 16 anos e atualmente estou no segundo ano do ensino médio. Estou estudando programação Back-end há quase um ano. Sou um entusiasta de tecnologia, apaixonado por desenvolvimento de software e aprendizado contínuo.
+Me chamo Jonatas Marques, tenho 17 anos e estou finalizando o ensino médio. Sou desenvolvedor Full Stack, com dois anos de experiência em formação e estudos na área de desenvolvimento de software.
 
-Aqui no GitHub, você vai encontrar projetos, experimentos e estudos que refletem minha jornada e evolução como desenvolvedor.
+Sou apaixonado por tecnologia, desenvolvimento de aplicações e aprendizado contínuo. Tenho interesse em construir soluções eficientes, escaláveis e bem estruturadas, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
-### 🤖 Linguagens e Tecnologias
+Aqui no GitHub, você encontrará projetos, experimentos e estudos que representam minha evolução e minha jornada como desenvolvedor.
 
+### 💻 Linguagens
 
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript" alt="TypeScript" />
+</div>
 
+### 🎨 Front-end
 
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
-/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" alt="Next.js" />
+</div>
 
+### ⚙️ Back-end
 
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-
-
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-
-
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
-/>
-
-
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
-/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" title="NestJS" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" title="Prisma" alt="Prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker" />
+</div>
 
 
 
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
+### 📊 Estatísticas
 
-<br>
-<br>
+<div align="left">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=JonatasMarquesS09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub"
+  />
 
-
-### 📊 Estatísticas 
-
-<img 
-    align="left"
-    alt="Github stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=JonatasMarquesS09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
-
-<img 
-    align="left"
-    alt="Github stats"
-    heigth="200"
-    style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasMarquesS09&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-
-          
-          
-          
-          
-          
-          
-          
-          
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=JonatasMarquesS09&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    alt="Linguagens mais utilizadas"
+  />
+</div>
